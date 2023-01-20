@@ -1,2 +1,11 @@
 # Roblox-Trade-bot
 Roblox Trade bot that automates trades
+![Untitled-1](https://user-images.githubusercontent.com/79790623/213688705-ae0fd52a-4cce-4292-9b37-e8e2d0988d5e.png)
+
+MAKE SURE TO READ THE "READ ME" FILE
+
+THERE IS NO NEED TO LOGIN WITH YOUR COOKIE IT CONENCTS TO YOUR BROWSER
+
+OPEN SOURCE YOU CAN CHECK THE SOURCE CODE
+
+- MAKE SURE TO LEAVE UPDATE IDEAS.
